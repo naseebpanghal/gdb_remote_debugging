@@ -24,3 +24,5 @@ In above example,
 * 192.168.100.237: Client Machine IP
 * 192.168.100.197: Target Machine IP
 
+For Cross-debugging, refer below link:
+https://www.linux.com/news/remote-cross-target-debugging-gdb-and-gdbserver
